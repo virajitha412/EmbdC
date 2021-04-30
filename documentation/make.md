@@ -1,0 +1,1 @@
+@mainpage LTTS EMBEDDED C ACTIVITIES Example by Virajitha D @subpage project_main.c
